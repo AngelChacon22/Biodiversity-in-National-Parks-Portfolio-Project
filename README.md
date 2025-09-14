@@ -21,5 +21,6 @@ cleaned, analyzed, and plotted using a jupyter notebook and focused on answering
 - 96.72% of dataset did not have a conservaton status noted
 - The observations that did contain a conservation status, most (83.2%) were categorized as species of concern.
 - The animals species containing the most conservation status observations by proportion were: Mamals (17.7%) followed by Birds (15.1%) and Fish (9.4%)
-- Sampling for each park was consistent with vaasular plants representing most observations and reptiles representing the fewest.
-- Species category showed a moderate relationship to conservation status (Cramers V: 0.33) w/ Mammals, Fish, Birds, and Amphibians contributing most toward the relationship. See [Cramers V](https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V) and [Cohen's Rules of Thumb](https://cebma.org/assets/Uploads/Overview-Effect-Sizes-v2.pdf).
+- Sampling for each park was consistent with vascular plants representing most observations and reptiles representing the fewest.
+- Species category showed a moderate relationship to conservation status (Cramers V: 0.33) w/ Mammals, Fish, Birds, and Amphibians contributing most toward the relationship. See [Cramers V](https://en.wikipedia.org/wiki/Cram%C3%A9r%27s_V) and [Cohen's Rules of Thumb](https://cebma.org/assets/Uploads/Overview-Effect-Sizes-v2.pdf) for further information.
+
